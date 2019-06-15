@@ -6,11 +6,9 @@ This is a repository containing portfolio of data science projects completed by 
 - Machine Learning 
   - Bike Sharing Demand Dataset: A model to predict the total count of bikes rented during each hour using various statistical analysis tools. (random forest regressor)
   - New York Stock Exchange dataset: Predicting stock prices using RNN, LSTM, and ARIMA model
-  - TKX Fitness Certer Dataset: Analysing a dataset containing data on fitness users' characteristics(goal weight, age, etc.) and status to assist making business decisions. 
-  - Naver News Dataset: Text analysis. Preprocessing and analysing Korean-text data.
   - Lezhin Comics Data Challenge 2017: Analyzing a dataset to assist making better marketing decisions.
   - Predicting Boston Housing Prices: A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning. 
   - Deep learning: Image Classification / Recognition using MNIST dataset 
   - Google Play Store Dataset: Analyzing the dataset by visualizing with Seaborn and came up with a model which predicts the ratings of each game. 
-  - PetFinder.my Dataset: Analyzing 'cuteness' of each pet in the PetFinder adoption center. 
+
   
