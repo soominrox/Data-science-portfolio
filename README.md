@@ -1,6 +1,6 @@
 # Data-science-portfolio
 Hello visitors!
-This is a repository containing portfolio of data science projects completed by me for academic, self-learning and hobby purposes.
+This is a repository containing portfolio of data science projects completed by me for academic, self-learning purposes.
 
 # Contents
 - Machine Learning 
